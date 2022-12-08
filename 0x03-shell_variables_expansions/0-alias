@@ -1,1 +1,1 @@
-alias [ls[rm*]]
+alias [-p] [ls="rs"]
