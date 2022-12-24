@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 755 hello
+chmod 705 hello
